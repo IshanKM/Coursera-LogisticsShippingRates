@@ -4,7 +4,7 @@ Code Style:
 Maintain a consistent code style for readability.
 
 Documentation:
-Ensure well-documented code for effective collaboration.
+Ensure well-documented code for effective collaboration is good.
 
 Testing:
 Thoroughly test your changes before submitting a pull request.
